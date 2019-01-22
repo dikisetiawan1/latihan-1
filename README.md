@@ -38,6 +38,7 @@ git remote add origin https://github.com/dikisetiawan1/latihan1tugas.git (enter)
 git push -u origin master (enter) "tahap terakhir untuk penyimpanan"
 
 Keterangan perintah diatas seperti ini :
+
 git init
 untuk meng-set folder yang digunakan tersebut sebagai repo local git. bisa di bilang ini instalasi git pertama kali
 git add “.” atau nama file
