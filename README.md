@@ -34,7 +34,7 @@ buka gitbush anda lalu ketikan code yang di bawah ini.....
 - git add . (enter) " memasukan file"
 - git status (enter) " cek status lagi ,sudah tersimpan atau belum ,jika tersimpan text nya berwarna hijau"
 git commit -m "first commit" (enter)
-git remote add origin https://github.com/dikisetiawan1/latihan1tugas.git (enter)" sesuai url repositori anda di github"
+git remote add origin https://github.com/dikisetiawan1/latihan-1.git (enter)" sesuai url repositori anda di github"
 git push -u origin master (enter) "tahap terakhir untuk penyimpanan"
 
 Keterangan perintah diatas seperti ini :
@@ -52,7 +52,7 @@ git add pages/index.html
 git commit -m “isi commit”untuk menambah keterangan/status perubahaan saat upload ke repo online, untuk memasukkan keterangan tersebut setelah “git commit -m” ditambah tanda petik lalu komentar(lihat di list perintah untuk contoh).
 
 
-git remote add origin https://github.com/dikisetiawan1/latihan1tugas.git
+git remote add origin https://github.com/dikisetiawan1/latihan-1.git
 
 
 git push -u origin master
